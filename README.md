@@ -9,7 +9,7 @@ My little brother beating the robot (on a lower difficulty using 64 monte-carlo 
 
 [![Watch the video](https://img.youtube.com/vi/nkvhGAdZHMo/hqdefault.jpg)](https://www.youtube.com/watch?v=nkvhGAdZHMo)
 
-The robot beating my little brother (on the max diffulty using (or atleast I think it was) 2048 monte-carlo iterations): 
+The robot beating my little brother (on the max difficulty using (or atleast I think it was) 2048 monte-carlo iterations): 
 
 [![Watch the video](https://img.youtube.com/vi/RIpIzW85VdE/hqdefault.jpg)](https://www.youtube.com/watch?v=RIpIzW85VdE)
 
