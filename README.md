@@ -1,4 +1,4 @@
-# 2023 Connect 4Robot Demos
+# 2023 Connect 4 Robot Demos
 Demo videos for robot that plays the game of Connect 4!
 
 I sadly no longer have the python code (I wrote it a couple years ago), as it was only stored on my Raspberry Pi, and there was an issue with the Pi's SD card that caused it to get wiped 🥲 
